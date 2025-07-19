@@ -1,0 +1,7 @@
+# This is an example target list.
+# Each line should contain one Instagram username.
+# Lines starting with '#' are ignored.
+
+my_test_account_1
+my_test_account_2
+another_test_user
